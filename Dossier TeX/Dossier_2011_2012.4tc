@@ -1,0 +1,33 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi
+\doTocEntry\tocsection{1}{\csname a:TocLink\endcsname{1}{x1-10001}{QQ2-1-1}{Pr\IeC {\'e}sentation personnelle}}{3}\relax 
+\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{1}{x1-20001}{QQ2-1-2}{Liste des cours}}{3}\relax 
+\doTocEntry\tocsubsection{}{\csname a:TocLink\endcsname{1}{Q1-1-3}{}{Liste des cours}}{3}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-30001}{QQ2-1-4}{S\IeC {\'e}minaires}}{3}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-40001}{QQ2-1-5}{Sessions}}{3}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-50001}{QQ2-1-6}{Cours de th\IeC {\'e}ologie}}{3}\relax 
+\doTocEntry\tocsection{2}{\csname a:TocLink\endcsname{1}{x1-60002}{QQ2-1-7}{Pr\IeC {\'e}sentation des lectures effectu\IeC {\'e}es}}{5}\relax 
+\doTocEntry\tocsubsection{2.1}{\csname a:TocLink\endcsname{1}{x1-70002.1}{QQ2-1-8}{Litt\IeC {\'e}rature}}{5}\relax 
+\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{1}{x1-80002.1}{QQ2-1-9}{Dossier de lecture}}{7}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-90002.1}{QQ2-1-10}{Histoire des Dogmes - tome I :{} Le Dieu du salut}}{7}\relax 
+\doTocEntry\tocsection{3}{\csname a:TocLink\endcsname{1}{x1-100003}{QQ2-1-11}{Les travaux \IeC {\'e}crits}}{10}\relax 
+\doTocEntry\tocsubsection{3.1}{\csname a:TocLink\endcsname{1}{x1-110003.1}{QQ2-1-12}{L\IeC {\textquoteright }engagement chr\IeC {\'e}tien \IeC {\`a} partir de la th\IeC {\'e}ologie du \emph  {Dieu Crucifi\IeC {\'e}}}}{10}\relax 
+\doTocEntry\tocsection{4}{\csname a:TocLink\endcsname{1}{x1-120004}{QQ2-1-13}{\IeC {\'E}valuation des travaux de groupe}}{13}\relax 
+\doTocEntry\tocsubsection{4.1}{\csname a:TocLink\endcsname{1}{x1-130004.1}{QQ2-1-14}{R\IeC {\'e}v\IeC {\'e}lation de Dieu dans l\IeC {\textquoteright }histoire :{} Ir\IeC {\'e}n\IeC {\'e}e de Lyon}}{13}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-140004.1}{QQ2-1-15}{Le corpus \IeC {\'e}tudi\IeC {\'e}}}{13}\relax 
+\doTocEntry\tocsubsection{4.2}{\csname a:TocLink\endcsname{1}{x1-150004.2}{QQ2-1-16}{Bonaventure, \emph  {l\IeC {\textquoteright }Itin\IeC {\'e}raire de l\IeC {\textquoteright }esprit vers Dieu}}}{14}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-160004.2}{QQ2-1-17}{Le corpus \IeC {\'e}tudi\IeC {\'e}}}{14}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-170004.2}{QQ2-1-18}{Le rapport entre foi et raison}}{15}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-180004.2}{QQ2-1-19}{Questions pour aller plus loin}}{16}\relax 
+\doTocEntry\tocsection{5}{\csname a:TocLink\endcsname{1}{x1-190005}{QQ2-1-20}{Pr\IeC {\'e}sentation des autres activit\IeC {\'e}s}}{18}\relax 
+\doTocEntry\tocsection{6}{\csname a:TocLink\endcsname{1}{x1-200006}{QQ2-1-21}{Propositions}}{20}\relax 
+\doTocEntry\tocsubsection{6.1}{\csname a:TocLink\endcsname{1}{x1-210006.1}{QQ2-1-22}{Histoire de l\IeC {\textquoteright }Eglise}}{20}\relax 
+\doTocEntry\tocsubsection{6.2}{\csname a:TocLink\endcsname{1}{x1-220006.2}{QQ2-1-23}{Eccl\IeC {\'e}siologie}}{20}\relax 
+\doTocEntry\tocsubsection{6.3}{\csname a:TocLink\endcsname{1}{x1-230006.3}{QQ2-1-24}{Patristique}}{21}\relax 
+\doTocEntry\tocsubsubsection{6.3.1}{\csname a:TocLink\endcsname{1}{x1-240006.3.1}{QQ2-1-25}{Ir\IeC {\'e}n\IeC {\'e}e de Lyon}}{21}\relax 
+\doTocEntry\tocsubsubsection{6.3.2}{\csname a:TocLink\endcsname{1}{x1-250006.3.2}{QQ2-1-26}{Le r\IeC {\^o}le de la gr\IeC {\^a}ce dans la prop\IeC {\'e}deutique baptismale}}{21}\relax 
+\doTocEntry\tocsubsection{6.4}{\csname a:TocLink\endcsname{1}{x1-260006.4}{QQ2-1-27}{Droit Canon}}{23}\relax 
+\doTocEntry\tocsubsection{6.5}{\csname a:TocLink\endcsname{1}{x1-270006.5}{QQ2-1-28}{Th\IeC {\'e}ologie fondamentale}}{23}\relax 
+\doTocEntry\tocsubsubsection{6.5.1}{\csname a:TocLink\endcsname{1}{x1-280006.5.1}{QQ2-1-29}{La contingence de la R\IeC {\'e}v\IeC {\'e}lation}}{23}\relax 
+\doTocEntry\tocsubsubsection{6.5.2}{\csname a:TocLink\endcsname{1}{x1-290006.5.2}{QQ2-1-30}{Le don de Dieu et la libert\IeC {\'e} de l\IeC {\textquoteright }homme}}{25}\relax 
+\doTocEntry\tocsubsection{6.6}{\csname a:TocLink\endcsname{1}{x1-300006.6}{QQ2-1-31}{Le rapport entre foi et raison}}{25}\relax 
+\doTocEntry\tocsubsection{6.7}{\csname a:TocLink\endcsname{1}{x1-310006.7}{QQ2-1-32}{Christologie}}{25}\relax 

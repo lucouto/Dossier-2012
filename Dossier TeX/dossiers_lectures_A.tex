@@ -1,0 +1,103 @@
+% !TEX TS-program = pdflatex
+% !TEX encoding = UTF-8 Unicode
+
+% This is a simple template for a LaTeX document using the "article" class.
+% See "book", "report", "letter" for other types of document.
+
+\documentclass[12pt]{article} % use larger type; default would be 10pt
+
+\usepackage[utf8]{inputenc} % set input encoding (not needed with XeLaTeX)
+\usepackage[T1]{fontenc}
+
+\usepackage[frenchb]{babel} % set to French language
+
+\usepackage{setspace} % pour l'espace interligne
+
+%%% Examples of Article customizations
+% These packages are optional, depending whether you want the features they provide.
+% See the LaTeX Companion or other references for full information.
+
+%%% PAGE DIMENSIONS
+%%% dimensões da página
+\usepackage[top=2cm,left=2.5cm,right=2.5cm,bottom=1.5cm]{geometry} 
+\geometry{a4paper} % or letterpaper (US) or a5paper or....
+
+%\usepackage{graphicx} % support the \includegraphics command and options
+
+% \usepackage[parfill]{parskip} % Activate to begin paragraphs with an empty line rather than an indent
+
+%%% PACKAGES
+%\usepackage{booktabs} % for much better looking tables
+%\usepackage{array} % for better arrays (eg matrices) in maths
+%\usepackage{paralist} % very flexible & customisable lists (eg. enumerate/itemize, etc.)
+%\usepackage{verbatim} % adds environment for commenting out blocks of text & for better verbatim
+%\usepackage{subfig} % make it possible to include more than one captioned figure/table in a single float
+% These packages are all incorporated in the memoir class to one degree or another...
+
+%%% HEADERS & FOOTERS
+\usepackage{fancyhdr} % This should be set AFTER setting up the page geometry
+\pagestyle{fancy} % options: empty , plain , fancy
+\renewcommand{\headrulewidth}{0pt} % customise the layout...
+\lhead{}\chead{}\rhead{}
+\lfoot{}\cfoot{\thepage}\rfoot{}
+
+%%% SECTION TITLE APPEARANCE
+\usepackage{sectsty}
+\allsectionsfont{\sffamily\mdseries\upshape} % (See the fntguide.pdf for font help)
+% (This matches ConTeXt defaults)
+
+%%% ToC (table of contents) APPEARANCE
+%\usepackage[nottoc,notlof,notlot]{tocbibind} % Put the bibliography in the ToC
+%\usepackage[titles,subfigure]{tocloft} % Alter the style of the Table of Contents
+%\renewcommand{\cftsecfont}{\rmfamily\mdseries\upshape}
+%\renewcommand{\cftsecpagefont}{\rmfamily\mdseries\upshape} % No bold!
+
+%%% END Article customizations
+%%% 
+%%% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Definições do pacote BibLatex para nova seção de bibliografia
+\usepackage{csquotes}           		% utilisé par biblatex
+\usepackage[style=verbose-trad1,
+bibencoding=inputenc,			% UTF-8 na bibliografia
+language=auto,					% para a lingua
+natbib=true,					% comandos "normais" para citação
+sortcites=true,
+autopunct=true,               			% gérer automatiquement les ponctuations
+babel=hyphen,                			 % ajuster les césure pour chaque entrée
+hyperref=true,                			% les liens hypertexte, c'est le Bien
+block=space,
+backend=biber]{biblatex}
+
+% Arquivo com definições de bibliografia 
+\bibliography{/Users/lucianoleite/Documents/Chartres/Philosophie/bibliographie.bib}
+
+%%% The "real" document content comes below...
+
+\title{\vspace{-4ex}Dossier de lecture}
+\author{Luciano COUTO}
+\date{31/01/2012} % Activate to display a given date or no date (if empty),
+         % otherwise the current date is printed 
+
+% Pour chager la numérotation de la commande \subsection
+\renewcommand{\thesubsection}{\alph{subsection})}
+
+\begin{document}
+\maketitle
+\onehalfspace
+
+%\section{First section}
+
+Le choix d’une telle lecture a été fait afin de nous permettre d’avoir une vision panoramique du développement de la dogmatique à partir des grands conciles des premiers siècles de l’Église. Ainsi, en suivant les thèmes de Dieu, la Trinité, le Christ et la sotériologie, nous avons suivi ce parcours ecclésial de la compréhension du mystère du Dieu de Jésus-Christ. Au coeur d’un tel parcours, nous avons trouvé le salut comme une oeuvre opérée par Dieu en faveur de l’homme. Dans le cadre historique choisi par l’auteur, à savoir l’époque patristique, le développement des dogmes est lié aux Symboles de foi qui comportent une structure trinitaire et christologique afin d’accentuer ce salut donné par Dieu et accompli en Jésus-Christ au bénéfice de tout homme. Il est donc clair que le centre du livre n’est pas autre que la question de l’identité de Jésus de Nazareth, appelé Christ et Seigneur, à partir de la compréhension de l’originalité du Dieu révélé en lui et cette oeuvre de salut. 
+
+Mais avant la question du contenu du dogme, un des points qui nous a frappés le plus dans ce travail est le concept de dogme lui-même. L’auteur présente le dogme comme une interprétation des Écritures qui prend en compte les questions et le langage d’une époque et d’une culture données dans une perspective profondément herméneutique. Le concept de dogme est par conséquent intimement lié à celui de tradition, celui-ci comprit comme « le véhicule vivant des affirmations de foi dans la communauté chrétienne ». Cela nous remet au rapport délicat et complexe entre la Tradition et l’Écriture puisque celle-ci demeure le critère décisif de la validité de tout dogme. Ainsi, le dogme n’est pas une invention « arbitraire » de l’Église afin de défendre de manière autoritaire sa manière de penser, mais il est tout simplement « l’acte d’interprétation de la parole de Dieu consignée dans l’Écriture », construit dans l’histoire de la Tradition, et que « se tiendra comme référence pour les assemblées conciliaires ». 
+
+Dans ce sens, l’exemple du dogme de la divinité du Fils attesté par le concile de Nicée est un excellent exemple de comment l’Église veut garder l’authenticité du message de l’Évangile à travers le temps et le dialogue avec les cultures. C’est là que pour la première fois les mots utilisés dans le Symbole de foi, cellule-mère de tout le développement dogmatique dans l’Église, ne viennent pas de l’Écriture, mais de la philosophie grecque. À Nicée nous voyons l’Église qui répond à des questions nouvelles en traduisant une règle de foi dans un langage culturel nouveau. En outre, Nicée nous montre que la prise de conscience de l’autorité conciliaire a été aussi le résultat d’un processus herméneutique. C’est dans la réception du concile qu’une ecclésiologie conciliaire a pu se développer. À partir de la conviction de que l’Eglise universelle est représentée dans le concile, l’Eglise qui reçoit ses fruits prend conscience de l’autorité conciliaire en même temps que ses décisions sont prises dans un caractère définitif et irrévocable. 
+
+Ce défi, selon nous, est toujours actuel et s’impose non seulement à la dogmatique, mais à tout discours de foi de l’Église. Comment pouvons-nous prendre conscience des questions qui traversent notre temps, dans nos sociétés et cultures tellement diverses et en même temps globalisées afin d’y répondre dans un langage actuel et compréhensible capable d’atteindre les gens d’une façon qu’ils se sentent concernés par ce discours ?
+
+
+
+
+
+
+\end{document}

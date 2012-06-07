@@ -1,0 +1,45 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {french}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Pr\IeC {\'e}sentation personnelle}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Liste des cours}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Pr\IeC {\'e}sentation des lectures effectu\IeC {\'e}es}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Litt\IeC {\'e}rature}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Les travaux \IeC {\'e}crits}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}L\IeC {\textquoteright }engagement chr\IeC {\'e}tien \IeC {\`a} partir de la th\IeC {\'e}ologie du \emph {Dieu Crucifi\IeC {\'e}}}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}\IeC {\'E}valuation des travaux de groupe}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}R\IeC {\'e}v\IeC {\'e}lation de Dieu dans l\IeC {\textquoteright }histoire : Ir\IeC {\'e}n\IeC {\'e}e de Lyon}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Bonaventure, \emph {l\IeC {\textquoteright }Itin\IeC {\'e}raire de l\IeC {\textquoteright }esprit vers Dieu}}{9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Pr\IeC {\'e}sentation des autres activit\IeC {\'e}s}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Propositions}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1}Histoire de l\IeC {\textquoteright }Eglise}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2}Eccl\IeC {\'e}siologie}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3}Patristique : Ir\IeC {\'e}n\IeC {\'e}e de Lyon}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4}Patristique : Le r\IeC {\^o}le de la gr\IeC {\^a}ce dans la prop\IeC {\'e}deutique baptismale}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.5}Droit Canon}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.6}Th\IeC {\'e}ologie fondamentale : La contingence de la R\IeC {\'e}v\IeC {\'e}lation}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.7}M\IeC {\'e}dievale : Le rapport entre foi et raison chez S. Bonaventure}{16}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.8}Bible : le Canon des \IeC {\'E}critures}{16}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.9}Bible : Les Actes des Ap\IeC {\^o}tres}{17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.10}Christologie}{17}

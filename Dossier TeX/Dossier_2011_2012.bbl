@@ -1,0 +1,370 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 1.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{Balthasar:1968aa}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Balthasar}{B.}%
+     {Hans~Urs}{H.~U.}%
+     {von}{v.}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Aubier Montaigne}%
+  }
+  \strng{namehash}{BHUv1}
+  \strng{fullhash}{BHUv1}
+  \field{sortinit}{B}
+  \field{number}{1}
+  \field{title}{La gloire et la croix}
+  \field{volume}{II}
+  \list{location}{1}{%
+    {Paris}%
+  }
+  \field{year}{1968}
+\endentry
+
+\entry{Baslez:2012aa}{unpublished}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Baslez}{B.}%
+     {Marie-Fran{\c c}oise}{M.-F.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{th{\'e}ologie, histoire de l'Eglise}
+  \strng{namehash}{BMF1}
+  \strng{fullhash}{BMF1}
+  \field{sortinit}{B}
+  \field{howpublished}{Centre S{\`e}vres}
+  \field{note}{Notes de cours}
+  \field{title}{La Christianisation aux premiers si{\`e}cles}
+  \field{year}{2012}
+\endentry
+
+\entry{Bonaventure:2001aa}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bonaventure}{B.}%
+     {Saint}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{translator}{1}{}{%
+    {{}%
+     {Dum{\'e}ry}{D.}%
+     {Henry}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {J.VRIN}%
+  }
+  \strng{namehash}{BS1}
+  \strng{fullhash}{BS1}
+  \field{sortinit}{B}
+  \field{edition}{7e}
+  \field{title}{Itin{\'e}raire de l'esprit vers Dieu}
+  \list{location}{1}{%
+    {Paris}%
+  }
+  \field{year}{2001}
+\endentry
+
+\entry{Claudel:1934aa}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Claudel}{C.}%
+     {Paul}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Gallimard}%
+  }
+  \strng{namehash}{CP1}
+  \strng{fullhash}{CP1}
+  \field{sortinit}{C}
+  \field{edition}{76e}
+  \field{title}{L'Annonce faite {\`a} Marie}
+  \list{location}{1}{%
+    {Paris}%
+  }
+  \field{year}{1934}
+\endentry
+
+\entry{Comeau:2012aa}{unpublished}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Comeau}{C.}%
+     {Genevi{\`e}ve}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{th{\'e}ologie, th{\'e}ologie fondamentale}
+  \strng{namehash}{CG1}
+  \strng{fullhash}{CG1}
+  \field{sortinit}{C}
+  \field{howpublished}{Centre S{\`e}vres}
+  \field{note}{Notes de cours}
+  \field{title}{Th{\'e}ologie fondamentale}
+  \field{year}{2012}
+\endentry
+
+\entry{Fedou:2012aa}{unpublished}{}
+  \name{author}{1}{}{%
+    {{}%
+     {F{\'e}dou}{F.}%
+     {Michel}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{th{\'e}ologie, patristique}
+  \strng{namehash}{FM1}
+  \strng{fullhash}{FM1}
+  \field{sortinit}{F}
+  \field{howpublished}{Centre S{\`e}vres}
+  \field{note}{Notes de cours}
+  \field{title}{S{\'e}minaire - R{\'e}v{\'e}lation de Dieu dans l'histoire :
+  Ir{\'e}n{\'e}e de Lyon}
+  \field{year}{2012}
+\endentry
+
+\entry{GIRAUD:2011aa}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {GIRAUD}{G.}%
+     {Ga{\"e}l}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GG1}
+  \strng{fullhash}{GG1}
+  \field{sortinit}{G}
+  \field{title}{Pour une th{\'e}ologie apocalyptique de l'histoire}
+  \field{volume}{99/1}
+  \field{journaltitle}{Recherches de Science Religieuse}
+  \field{year}{2011}
+\endentry
+
+\entry{vatican_LG:1965aa}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {II}{I.}%
+     {Concile~Vatican}{C.~V.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{ICV1}
+  \strng{fullhash}{ICV1}
+  \field{sortinit}{I}
+  \field{title}{Lumen Gentium}
+  \field{year}{1965}
+\endentry
+
+\entry{Lyon:contre_heresies}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Lyon}{L.}%
+     {Ir{\'e}n{\'e}e}{I.}%
+     {de}{d.}%
+     {}{}}%
+  }
+  \name{translator}{1}{}{%
+    {{}%
+     {Rousseau}{R.}%
+     {Adelin}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cerf}%
+  }
+  \strng{namehash}{LId1}
+  \strng{fullhash}{LId1}
+  \field{sortinit}{L}
+  \field{title}{Contre les h{\'e}r{\'e}sies}
+  \list{location}{1}{%
+    {Paris}%
+  }
+  \field{year}{2001}
+\endentry
+
+\entry{Flichy-Rastoin:2012aa}{unpublished}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Marc~Rastoin}{M.~R.}%
+     {Odile~Flichy}{O.~F.}%
+     {et}{e.}%
+     {}{}}%
+  }
+  \keyw{th{\'e}ologie, Bible}
+  \strng{namehash}{MROFe1}
+  \strng{fullhash}{MROFe1}
+  \field{sortinit}{M}
+  \field{howpublished}{Centre S{\`e}vres}
+  \field{note}{Notes de cours}
+  \field{title}{S{\'e}quence biblique de 1\iere~ann{\'e}e. Ouvrir le Livre.
+  Entrer dans les Ecritures}
+  \field{year}{2012}
+\endentry
+
+\entry{Marguerat:2003aa}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Marguerat}{M.}%
+     {Daniel}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cerf}%
+  }
+  \keyw{Bible}
+  \strng{namehash}{MD1}
+  \strng{fullhash}{MD1}
+  \field{sortinit}{M}
+  \field{edition}{2\ieme}
+  \field{title}{La premi{\`e}re histoire du christianisme : les Actes des
+  ap{\^o}tres}
+  \field{year}{2003}
+\endentry
+
+\entry{Mestre:1996aa}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Mestre}{M.}%
+     {Achille}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MA1}
+  \strng{fullhash}{MA1}
+  \field{sortinit}{M}
+  \field{pages}{1265\bibrangedash 1290}
+  \field{title}{La s{\'e}paration des pouvoirs dans l'{\'E}glise catholique}
+  \field{journaltitle}{Revue du droit public et de la science politique}
+  \field{year}{1996}
+\endentry
+
+\entry{Mestre:2012aa}{unpublished}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Mestre}{M.}%
+     {Achille}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{th{\'e}ologie, droit canon}
+  \strng{namehash}{MA1}
+  \strng{fullhash}{MA1}
+  \field{sortinit}{M}
+  \field{howpublished}{Centre S{\`e}vres}
+  \field{note}{Notes de cours}
+  \field{title}{Les institutions de l'{\'e}glise}
+  \field{year}{2012}
+\endentry
+
+\entry{Pascal:1972aa}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Pascal}{P.}%
+     {Blaise}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Seuil}%
+  }
+  \strng{namehash}{PB1}
+  \strng{fullhash}{PB1}
+  \field{sortinit}{P}
+  \field{title}{Pascal - Oeuvres compl{\`e}tes}
+  \field{year}{1972}
+\endentry
+
+\entry{Rahner:2011aa}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Rahner}{R.}%
+     {Karl}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cerf}%
+  }
+  \keyw{th{\'e}ologie}
+  \strng{namehash}{RK1}
+  \strng{fullhash}{RK1}
+  \field{sortinit}{R}
+  \field{title}{Trait{\'e} fondamental de la foi}
+  \list{location}{1}{%
+    {Paris}%
+  }
+  \field{year}{2011}
+\endentry
+
+\entry{Sesboue:1990aa}{inbook}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Sesbo{\"u}{\'e}}{S.}%
+     {Bernard}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cerf}%
+  }
+  \strng{namehash}{SB1}
+  \strng{fullhash}{SB1}
+  \field{sortinit}{S}
+  \field{chapter}{IX}
+  \field{number}{140 - Le canon des {\'E}critures}
+  \field{pages}{p.523\bibrangedash 539}
+  \field{series}{Lection Divina}
+  \field{title}{Essai de th{\'e}ologie syst{\'e}matique sur le canon des
+  {\'E}critures}
+  \list{location}{1}{%
+    {Paris}%
+  }
+  \field{year}{1990}
+\endentry
+
+\entry{Theobald:2012aa}{unpublished}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Theobald}{T.}%
+     {Christoph}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{th{\'e}ologie, christologie}
+  \strng{namehash}{TC1}
+  \strng{fullhash}{TC1}
+  \field{sortinit}{T}
+  \field{howpublished}{Centre S{\`e}vres}
+  \field{note}{Notes de cours}
+  \field{title}{Croire aujourd'hui en J{\'e}sus, Christ et Saint de Dieu}
+  \field{year}{2012}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput
